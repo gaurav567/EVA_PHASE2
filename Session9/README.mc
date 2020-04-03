@@ -1,7 +1,7 @@
 Importing Necessary Library
 pybullet envs(the parts the create is made or is about to understand environment
 
-https://vectr.com/tmp/eDJL2deYU/k3sIWgwZAU.png?width=640&height=640&select=k3sIWgwZAUpage0
+![1](https://user-images.githubusercontent.com/11965360/78368315-12b27c80-75e1-11ea-96df-f677f4eddf81.jpg)
 
 
 Step1
